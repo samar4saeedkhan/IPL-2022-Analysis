@@ -8,7 +8,11 @@
 ![Ansible Quality Score](https://img.shields.io/ansible/quality/432?style=plastic)
 
 
-# IPL 2022
+
+
+# IPL 2022  
+
+![ipl-cricket](https://user-images.githubusercontent.com/106439762/177098849-6deb72ac-f83e-41c7-96e3-d58cf32b150c.gif)
 
 
 Data Analysis with IPL match-by-match dataset of season 2022.
