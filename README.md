@@ -19,7 +19,7 @@ Data Analysis with IPL match-by-match dataset of season 2022.
 
 Dataset has been downloaded from Kaggle and it can be found in Data folder in my reprository.
 
-The dataset contains 3 dataset files i.e- IPL_Matches_2022.csv , matches.csv and IPL_Ball_by_Ball_2022.csv. These files used for IPL 2022 analysis.
+The dataset contains 3 dataset files i.e:- IPL_Matches_2022.csv , matches.csv and IPL_Ball_by_Ball_2022.csv. These files used for IPL 2022 analysis.
 
 
 ## Analysis
